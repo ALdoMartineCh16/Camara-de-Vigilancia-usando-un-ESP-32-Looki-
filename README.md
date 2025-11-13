@@ -49,7 +49,7 @@ GND ----------------> GND
 
 *Recomendado: Alimentar el ESP32-CAM con una fuente externa 5V 2A.
 
-```
+
 
 ---
 
@@ -75,7 +75,7 @@ GND ----------------> GND
 1. Ir a:  
    `Archivo → Preferencias → Additional Boards Manager URLs`  
    Añadir:
-```
+
 
 [https://espressif.github.io/arduino-esp32/package_esp32_index.json](https://espressif.github.io/arduino-esp32/package_esp32_index.json)
 
@@ -207,9 +207,3 @@ Incluye aquí tu licencia (MIT recomendado).
 
 **Aldo Raúl Martínez Choque**
 
-```
-
----
-
-Si quieres, también puedo generarlo en **versión “pro” con badges**, **README con imágenes**, o **README en inglés**.
-```
