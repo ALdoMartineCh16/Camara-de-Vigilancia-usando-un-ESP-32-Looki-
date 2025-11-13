@@ -1,9 +1,3 @@
-Aquí tienes el **README.md EXACTO**, tal como debe copiarse y pegarse, sin explicaciones adicionales ni formato externo.
-Solo copia y pega todo el texto tal cual:
-
----
-
-```md
 # 📹 Cámara de Vigilancia usando un ESP32-CAM (Looki)
 
 Proyecto que implementa una **cámara de vigilancia Wi-Fi** usando un **ESP32-CAM** y una **aplicación web** para visualizar el video en tiempo real.
