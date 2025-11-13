@@ -25,9 +25,8 @@ Este repositorio contiene:
 
 # 🔌 Diagrama de conexión (para programación)
 
-```
 
-```
+
          ESP32-CAM (AI Thinker / Looki)
     +--------------------------------------+
     | [CAMERA MODULE]                      |
@@ -40,7 +39,6 @@ Este repositorio contiene:
     |                                      |
     |  IO0 (BOOT) ----> GND (Solo para programar) 
     +--------------------------------------+
-```
 
 ## FTDI / USB-Serial
 
