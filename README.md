@@ -21,31 +21,7 @@ Este repositorio contiene:
 
 ---
 
-# 🔌 Diagrama de conexión (para programación)
 
-```
-             ESP32-CAM (AI Thinker / Looki)
-        +--------------------------------------+
-        | [CAMERA MODULE]                      |
-        |                                      |
-        |  5V   -------------------+-----------+----> 5V (FTDI o fuente externa)
-        |  GND  -------------------+----------------> GND (FTDI y fuente)
-        |                                      |
-        |  U0R (RX0) <------------------------------ TX (FTDI)
-        |  U0T (TX0) ------------------------------> RX (FTDI)
-        |                                      |
-        |  IO0 (BOOT) ----> GND (Solo para programar) 
-        +--------------------------------------+
-
- FTDI / USB-Serial
- ------------------
- VCC (3.3V o 5V)*    
- TX  ----------------> U0R (RX0)
- RX  <---------------- U0T (TX0)
- GND ----------------> GND
-
-*Recomendado: Alimentar el ESP32-CAM con una fuente externa 5V 2A.
-```
 
 ---
 
